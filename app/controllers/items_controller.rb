@@ -1,5 +1,3 @@
-# frozen_string_literal: true
-
 class ItemsController < ApplicationController
   def index
     @category = Category.find(params[:category_id])
