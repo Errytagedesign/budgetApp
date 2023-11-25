@@ -1,7 +1,7 @@
 databases:
   - name: budget_app_production
-    databaseName: budget_app_production_8m99
-    user: budget_app_production_8m99_user
+    databaseName: budget_app_production_jbj8
+    user: budget_app_production_jbj8_user
 
 services:
   - type: web
