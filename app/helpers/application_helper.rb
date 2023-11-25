@@ -1,3 +1,5 @@
+# frozen_string_literal: true
+
 module ApplicationHelper
   def format_amount(amount)
     formatted_amount = format('%.2f', amount)
